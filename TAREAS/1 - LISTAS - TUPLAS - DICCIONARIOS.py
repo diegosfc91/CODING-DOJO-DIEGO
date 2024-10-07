@@ -10,6 +10,7 @@ gatos.pop() # Elimina al ultimo elemento de la Lista
 print(gatos) # Imprime: ['Garfield', 'Tom', 'Hello Kitty']
 gatos.pop(1)# Elimina a "Tom"
 print(gatos) # Imprime: ['Garfield', 'Hello Kitty']
+print(gatos) # Imprime gatos por segunda vez
 
 #TUPLAS
 perro = ("Scooby Doo", "Gran Danés", "Scooby Galletas", 7)
