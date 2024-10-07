@@ -15,3 +15,4 @@ print(entero_a_complejo) #Imprime: (35+0j)
 import random
 num_aleatorio = random.randint(5, 10) #Genera un número aleatorio entre 5 y 10
 print(num_aleatorio) #Imprime el número aleatorio generado
+print(x) #cambiado
